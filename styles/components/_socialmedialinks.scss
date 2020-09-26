@@ -1,0 +1,31 @@
+.icons {
+  margin: 1.3rem;
+}
+.github {
+  svg {
+    height: 4rem !important;
+    width: 4rem !important;
+    background-color: black;
+    color: white;
+    margin: 0 1rem;
+    border-radius: 50%;
+  }
+}
+.stackoverflow {
+  svg {
+    height: 4rem !important;
+    width: 4rem !important;
+    // color: rgb(235, 152, 0);
+    color: #f48024;
+    margin: 0 1rem;
+  }
+}
+.linkedin {
+  svg {
+    height: 4rem !important;
+    width: 4rem !important;
+    background-color: rgb(41, 104, 221);
+    color: white;
+    margin: 0 1rem;
+  }
+}
